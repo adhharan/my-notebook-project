@@ -12,6 +12,6 @@ A comprehensive NBA statistics analyzer that fetches real player and team data, 
 
 ## Installation
 ```bash
-git clone https://github.com/YOURUSERNAME/nba-stats-analyzer.git
+git clone https://github.com/adhharan/nba-stats-analyzer.git
 cd nba-stats-analyzer
 pip install -r requirements.txt
